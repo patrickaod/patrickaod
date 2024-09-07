@@ -1,6 +1,9 @@
-![welcome](assets/gif/alternativeWelcome.gif)
 
-# 👋 Thanks for being here!
+![welcome](assets/gif/welcome-crop2.gif)
+
+
+
+# 
 
 A passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything: 
 
