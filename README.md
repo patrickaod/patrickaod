@@ -1,4 +1,4 @@
-![welcome](assets/gif/welcome.gif)
+![welcome](assets/gif/alternativeWelcome.gif)
 
 # 👋 Thanks for being here!
 
