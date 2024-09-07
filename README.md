@@ -1,7 +1,4 @@
-<video  height="200px" width="100%" autoplay muted loop>
-  <source src="assets/videos/Recording 2024-09-07 132803.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![welcome](assets/gif/welcome.gif)
 
 # 👋 Thanks for being here!
 
