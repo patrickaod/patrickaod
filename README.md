@@ -9,7 +9,9 @@ I'm a passionate Full Stack Web Developer with a love for animations, game devel
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
     <img class="badge" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
 </a><!-- coffee --> 
-<img class="badge" src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee"> <!-- streak -->
+<a href="https://buymeacoffee.com/patrickaod" target="_blank">
+    <img class="badge" src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee"> 
+</a><!-- streak -->
 <img class="badge" src="https://img.shields.io/badge/Coding%20Streak-30%20days-orange?style=for-the-badge&logo=github">  
 
 <!-- Thank you message -->
@@ -17,7 +19,8 @@ I'm a passionate Full Stack Web Developer with a love for animations, game devel
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&width=435&lines=Thank+you+for+visiting;Your+attention+is+appreciated" alt="Typing SVG" /></a>
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&center=true&width=435&lines=Thanks+for+visiting!;Your+attention+is+appreciated!)](https://git.io/typing-svg)
+
+
 
 
 
