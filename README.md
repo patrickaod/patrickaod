@@ -2,14 +2,16 @@
 <img src="assets/gif/welcome-crop2.gif">
 
 <p align="center">
- <!-- linkedin -->
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-</a>   <!-- coffee --> 
+</a>
 <a href="https://buymeacoffee.com/patrickaod" target="_blank">
-    <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee"> 
-</a>   <!-- Views -->
-<a href="https://hits.sh/github.com/patrickaod/"><img alt="Hits" src="https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github"/></a>
+    <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
+</a>
+<a href="https://hits.sh/github.com/patrickaod/">
+    <img alt="Hits" src="https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github"/>
+</a>
+
 
 <!-- Thank you message -->
 <p align="center">
