@@ -17,7 +17,7 @@
 
 <!-- Thank you message -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&width=435&lines=Thank+you+for+visiting;Your+attention+is+appreciated" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&width=435&lines=Thanks+for+visiting;Your+attention+is+appreciated" alt="Typing SVG" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=merko&hide_border=true)
 
