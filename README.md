@@ -4,18 +4,16 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
-</a>
-<a href="https://buymeacoffee.com/patrickaod" target="_blank">
+</a><a href="https://buymeacoffee.com/patrickaod" target="_blank">
     <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
-</a>
-<a href="https://hits.sh/github.com/patrickaod/">
+</a><a href="https://hits.sh/github.com/patrickaod/">
     <img alt="Hits" src="https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github"/>
 </a>
 
 
 <!-- Thank you message -->
-<!-- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&center=true&color=4AA93E&width=435&lines=Thanks+for+visiting!;Your+attention+is+appreciated!;Have+a+great+day!" alt="Typing SVG" /></a> -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&center=true&color=4AA93E&width=435&lines=Thanks+for+visiting!;Your+attention+is+appreciated!;Have+a+great+day!" alt="Typing SVG" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=merko&hide_border=true)
 
