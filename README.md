@@ -2,9 +2,8 @@
 ![welcome](assets/gif/welcome-crop2.gif)
 ---
 
-# About me 
- I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:
----
+ ***I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:***
+
 <!-- Views -->
 [![Hits](https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github)](https://hits.sh/github.com/patrickaod/) <!-- linkedin -->
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
