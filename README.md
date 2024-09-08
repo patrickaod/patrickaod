@@ -12,12 +12,7 @@ I'm a passionate Full Stack Web Developer with a love for animations, game devel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&center=true&width=435&lines=Thank+you+for+visiting;Your+attention+is+appreciated)](https://git.io/typing-svg)
 
-<style>
-  .badge {
-    width: 190px;
-    height: 28px;
-  }
-</style>
+
 
 <!--
 **patrickaod/patrickaod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
