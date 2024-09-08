@@ -1,3 +1,4 @@
+<p align="center">
 <img src="assets/gif/welcome-crop2.gif">
 
 
