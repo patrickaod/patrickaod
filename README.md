@@ -17,9 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=merko&hide_border=true)
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake ![Snake animation](https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg)
 
 <!--
 **patrickaod/patrickaod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
