@@ -16,6 +16,17 @@ I'm a passionate Full Stack Web Developer with a love for animations, game devel
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&center=true&width=435&lines=Thanks+for+visiting!;Your+attention+is+appreciated!)](https://git.io/typing-svg)
 
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    text {
+      font-family: 'Lobster', cursive;
+      fill: blue;
+    }
+  </style>
+  <text x="10" y="40" font-size="40">Welcome</text>
+</svg>
+
 
 
 <!--
