@@ -2,7 +2,7 @@
 ![welcome](assets/gif/welcome-crop2.gif)
 ---
 
- ***I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:***
+ ***I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:*** 
 
 <!-- Views -->
 [![Hits](https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github)](https://hits.sh/github.com/patrickaod/) <!-- linkedin -->
@@ -11,8 +11,8 @@
 </a> <!-- coffee --> 
 <a href="https://buymeacoffee.com/patrickaod" target="_blank">
     <img class="badge" src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee"> 
-</a> <!-- streak -->
-<img class="badge" src="https://img.shields.io/badge/Coding%20Streak-30%20days-orange?style=for-the-badge&logo=github">  
+</a> 
+
 
 <!-- Thank you message -->
 <p align="center">
@@ -20,6 +20,7 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 
