@@ -1,10 +1,6 @@
 <p align="center">
 <img src="assets/gif/welcome-crop2.gif">
 
-
- **I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:** 
-
-
 <p align="center">
  <!-- linkedin -->
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
