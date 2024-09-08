@@ -4,6 +4,7 @@
 
  ***I'm a passionate Full Stack Web Developer with a love for animations, game development, and web scraping. As a freelancer, I'm always exploring new horizons in the digital landscape and excited about the endless possibilities in technology. Feel free to ask me anything:*** 
 
+
 <!-- Views -->
 [![Hits](https://hits.sh/github.com/patrickaod.svg?style=for-the-badge&label=Views&color=11ccb2&logo=github)](https://hits.sh/github.com/patrickaod/) <!-- linkedin -->
 <a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
@@ -17,11 +18,11 @@
 <!-- Thank you message -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&pause=1000&color=4AA93E&width=435&lines=Thank+you+for+visiting;Your+attention+is+appreciated" alt="Typing SVG" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=merko)
+
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=patrickaod&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 
 
 
