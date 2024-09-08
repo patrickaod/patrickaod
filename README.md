@@ -19,7 +19,7 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake](https://github.com/patrickaod/patrickaod/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **patrickaod/patrickaod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
