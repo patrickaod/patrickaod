@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Patrick! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <a href="https://buymeacoffee.com/patrickaod" target="_blank"><img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee"></a>
+# 👋 Hey there, I'm Patrick! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <a href="https://buymeacoffee.com/patrickaod" target="_blank"><img align='right' src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee"></a>
 
 ### Freelance Web Dev | Crafting User-Centric, Data-Driven Apps | Passionate About Game Dev & Animations 
 
