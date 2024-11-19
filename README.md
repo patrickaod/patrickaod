@@ -3,7 +3,7 @@
 ### Freelance Web Dev | Crafting User-Centric, Data-Driven Apps | Passionate About Game Dev & Animations 
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=e34c26)
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=2965f1)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&color=663399)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Flask](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&color=333333)
