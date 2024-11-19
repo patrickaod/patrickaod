@@ -10,7 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=092E20)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&color=1F0322)
 ![PostgreSQL](https://img.shields.io/badge/Postgre-informational?style=flat&logo=PostgreSQL&color=F3CA40)
-![Jest](https://img.shields.io/badge/JEST-informational?style=flat&logo=JEST&color=AF7A6D)
+![Jest](https://img.shields.io/badge/JEST-informational?style=flat&logo=JEST&color=379634)
 ![pytest](https://img.shields.io/badge/pytest-informational?style=flat&logo=pytest&color=006494)
 ![codewars](https://img.shields.io/badge/Codewars-informational?style=flat&logo=codewars&color=A50000)
 ![Heroku](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
