@@ -1,4 +1,4 @@
-<a href="https://www.patrickodoherty.dev" target="_blank" rel="noopener noreferrer">
+<a href="https://www.patrickodoherty.dev">
     <img src="assets/img/differentbydesign.png" alt="LinkedIn Badge" width="100%">
 </a>
 <!-- Big centered name -->
