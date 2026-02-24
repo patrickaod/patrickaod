@@ -1,6 +1,6 @@
 
 <!-- Big centered name -->
-<h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrickaod</h1>
+<h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrick</h1>
 
 <!-- Tagline below -->
 <h3 align="center" style="font-weight: normal; color: #555;">Backend Developer | QA Automation | Building Reliable Systems</h3>
