@@ -54,8 +54,7 @@ The goal is to explore **practical approaches to complex technical challenges** 
 
 <h2>🌱 Insights & Advocacy</h2>
 
-I share my journey navigating tech with **ADHD, Autism, Dyspraxia, and IBD**, exploring strategies to work **with your mind, not against it**.  
-[Read my blog →](https://www.patrickodoherty.dev)
+I share my journey navigating tech with **ADHD, Autism, Dyspraxia, and IBD**, exploring strategies to work **with your mind, not against it**. [Read my blog →](https://www.patrickodoherty.dev)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg">
