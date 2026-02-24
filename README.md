@@ -1,4 +1,4 @@
-<a href="https://www.patrickodoherty.dev">
+<a href="https://www.patrickodoherty.dev" target="_blank" rel="noopener noreferrer">
     <img src="assets/img/differentbydesign.png" alt="LinkedIn Badge" width="100%">
 </a>
 <!-- Big centered name -->
@@ -40,7 +40,7 @@ The goal is to explore **practical approaches to complex technical challenges** 
 ### **Shoply** – Full-Stack eCommerce Platform
 
 <div align="center">
-<img src="assets/img/shoply_amiResponsive.png" alt="LinkedIn Badge" width="70%">
+<img src="assets/img/shoply_amiResponsive.png" alt="Shoply Responsive Image" width="70%">
 </div>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-Backend-blue?style=for-the-badge" alt="Django Badge">
