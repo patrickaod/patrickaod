@@ -1,6 +1,4 @@
-<a href="https://www.patrickodoherty.dev">
-    <img src="assets/img/differentbydesign.png" alt="LinkedIn Badge" width="100%">
-</a>
+
 <!-- Big centered name -->
 <h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrickaod</h1>
 
