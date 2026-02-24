@@ -20,3 +20,90 @@
 ![Arduino](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&color=00979D)
 ![DivinciResolve](https://img.shields.io/badge/DiVinci_Resolve-informational?style=flat&logo=davinciresolve&color=FF5C00)
 ![Snake animation](https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg)
+
+
+# 👋 Hi, I'm Patrick! <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
+
+<a href="https://www.linkedin.com/in/patrickaod/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+</a>
+<a href="https://buymeacoffee.com/patrickaod" target="_blank">
+<img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me a Coffee">
+</a>
+<a href="https://patrickso.dev/blog" target="_blank">
+<img src="https://img.shields.io/badge/Neurodivergence%20Advocacy-Blog-orange?style=for-the-badge" alt="Blog Badge">
+</a>
+
+---
+
+## 🌟 About Me
+
+I’m a **Python developer** passionate about building **reliable, testable systems** and **automated pipelines**.  
+I specialize in **QA automation, backend development, and data handling**, focusing on **sustainable workflows** that balance performance with well-being.  
+
+I also write about **neurodivergence, ADHD & Autism in tech, and creating systems that work with your mind** on my [blog](https://patrickso.dev/blog).
+
+---
+
+## 💻 Core Skills
+
+| Backend & Data | QA & Testing | Tools & DevOps |
+|----------------|--------------|----------------|
+| Python | Pytest | Git/GitHub |
+| Django | Unit & Integration Testing | CI/CD (GitHub Actions) |
+| PostgreSQL | Test Automation | Docker (Basics) |
+| Data Pipelines | Edge Case Handling | Logging & Debugging |
+
+> 📊 **Skill Radar:**  
+> ![Skill Chart](https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','Django','Pytest','CI/CD','Data Pipelines','PostgreSQL'],datasets:[{label:'Proficiency',data:[80,70,85,65,75,70],fill:true,backgroundColor:'rgba(0,123,255,0.2)',borderColor:'rgba(0,123,255,0.8)'}]}})
+
+---
+
+## 🚀 Featured Projects
+
+### **Shoply** – Full-Stack eCommerce Platform
+<div>
+<img src="https://img.shields.io/badge/Django-Backend-blue?style=for-the-badge" alt="Django Badge">
+<img src="https://img.shields.io/badge/Pytest-Testing-green?style=for-the-badge" alt="Pytest Badge">
+<img src="https://img.shields.io/badge/Stripe-Payment-yellow?style=for-the-badge" alt="Stripe Badge">
+</div>
+
+- Populates products dynamically using Kaggle datasets via Django management commands  
+- Secure Stripe integration for payments  
+- Mobile-first responsive design  
+- Automated tests & CI/CD integration  
+
+### **QA Automation Suite**
+<div>
+<img src="https://img.shields.io/badge/Pytest-Testing-red?style=for-the-badge" alt="Pytest Badge">
+<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?style=for-the-badge" alt="CI/CD Badge">
+</div>
+
+- Automated test cases for backend APIs  
+- Integrated tests with CI/CD for continuous validation  
+- Focused on edge-case handling and structured pipelines  
+
+*More projects in my repositories demonstrating backend logic, test automation, and pipelines.*
+
+---
+
+## 🐾 Fun & Interactive
+
+- Watch for the 🐍 contribution snake on my graph!  
+- Coding can be **structured, fun, and curious** all at once.
+
+![Snake animation](https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/patrickaod/)  
+- [Blog & Neurodivergence Advocacy](https://patrickso.dev/blog)  
+- [Buy Me a Coffee](https://buymeacoffee.com/patrickaod)  
+
+---
+
+## 🧩 Philosophy
+
+> “I aim to work with systems, not against them. I write code that is **predictable, testable, and reliable**, while building a sustainable path for long-term growth in tech.”
