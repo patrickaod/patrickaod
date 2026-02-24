@@ -1,4 +1,4 @@
-<img src="assets/gif/535-137076867_large.gif" alt="LinkedIn Badge" width="100%">
+<img src="assets/img/neurodiversity.jpg" alt="LinkedIn Badge" width="100%">
 
 <!-- Big centered name -->
 <h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrickaod</h1>
