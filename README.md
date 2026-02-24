@@ -21,7 +21,7 @@ The goal is to explore **practical approaches to complex technical challenges** 
 
 **Frameworks:**  
 ![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=092E20)
-![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&color=000000)
+![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&color=011638)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=F3CA40)
