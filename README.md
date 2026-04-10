@@ -42,7 +42,7 @@ The goal is to explore **practical approaches to complex technical challenges** 
 </div>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-Backend-blue?style=for-the-badge" alt="Django Badge">
-<img src="https://img.shields.io/badge/Pytest-Testing-green?style=for-the-badge" alt="Pytest Badge">
+<img src="https://img.shields.io/badge/Data-Pipelines-green?style=for-the-badge" alt="Pytest Badge">
 <img src="https://img.shields.io/badge/Stripe-Payment-yellow?style=for-the-badge" alt="Stripe Badge">
 </p>
 
