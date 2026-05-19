@@ -1,3 +1,41 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- Big centered name -->
 <h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrick</h1>
