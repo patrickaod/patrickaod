@@ -32,7 +32,7 @@ $ currently_building
 
 > Full-Stack Blackjack game with AI Opponents and Multiplayer
 > Linux Anti-Virus Automation
-> Computer Science Bachelor’s degree in Science 
+> Bachelor’s degree in Computer Science 
 ```
 
 <!-- Skills -->
