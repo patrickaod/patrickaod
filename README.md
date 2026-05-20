@@ -25,8 +25,8 @@
 $ whoami
 
 Full-Stack Web Developer
-Security & AI systems enthusiast
-Game Developer hobbyist
+Security & AI Systems Enthusiast
+Game Developer Hobbyist
 
 $ currently_building
 
