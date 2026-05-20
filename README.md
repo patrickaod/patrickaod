@@ -97,7 +97,7 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 - Secure Stripe integration for payments
 - Mobile-first responsive design
 - Automated tests & CI/CD
-<br>
+
 <!-- Personal Blog -->
 <div align="center">
 
