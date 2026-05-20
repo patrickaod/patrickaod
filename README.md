@@ -111,12 +111,13 @@ Navigating tech with ADHD, Autism, Dyspraxia & IBD
 </a>
 
 <p>
+<span style="display:inline-block; vertical-align:middle;">
 <a href="https://www.patrickodoherty.dev">
 <img src="https://img.shields.io/badge/BLOG-eebb5c?style=for-the-badge&logo=firefox&logoColor=black">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/patricksadvocacy/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a></span>
 </p>
 
 </div>
