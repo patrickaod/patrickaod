@@ -50,8 +50,7 @@ $ currently_building
 ## Cloud: AWS / Azure
 ## DB: Postgres / MongoDB
 ```
----
-<br>
+
 <!-- Stats -->
 <p align="center">
 
@@ -74,11 +73,6 @@ $ currently_building
 </table>
 
 </p>
-
-<br>
-
----
-<br>
 
 <!-- Feature -->
 <h1 align="center">💻 Featured Project</h1>
@@ -103,9 +97,7 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 - Secure Stripe integration for payments
 - Mobile-first responsive design
 - Automated tests & CI/CD
-
 <br>
-
 <!-- Personal Blog -->
 <div align="center">
 
