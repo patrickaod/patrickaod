@@ -80,10 +80,8 @@ $ currently_building
 <br>
 
 <!-- Feature -->
-<p align="center">
-  <span style="font-size: 32px; font-weight: bold;">
-    💻 Featured Project
-  </span>
+<p align="center" style="font-size: 26px">
+<strong>💻 FEATURED PROJECT </strong>
 </p>
 <h4 align="center" style="font-weight: normal; color: #555;">
 Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
