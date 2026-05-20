@@ -74,15 +74,11 @@ $ currently_building
 </table>
 
 </p>
-<br>
 
---- 
 <br>
 
 <!-- Feature -->
-<p align="center" style="font-size: 26px">
-<strong>💻 FEATURED PROJECT </strong>
-</p>
+<h1 align="center">💻 Featured Project</h1>
 <h4 align="center" style="font-weight: normal; color: #555;">
 Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 </h4>
@@ -107,15 +103,10 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 
 <br>
 
----
-
 <!-- Personal Blog -->
 <div align="center">
-<p align="center">
-  <span style="font-size: 32px; font-weight: bold;">
-    🌱 Insights & Advocacy
-  </span>
-</p>
+
+<h1>🌱 Insights & Advocacy</h1>
 <h4 style="font-weight: normal; color: #eebb5c;">
 Navigating tech with ADHD, Autism, Dyspraxia & IBD
 </h4>
