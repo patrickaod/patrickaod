@@ -75,6 +75,7 @@ $ currently_building
 
 </p>
 
+---
 <br>
 
 <!-- Feature -->
