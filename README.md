@@ -73,7 +73,6 @@ $ currently_building
 </table>
 
 </p>
-<br>
 
 <!-- Feature -->
 <h1 align="center">💻 Featured Project</h1>
@@ -99,9 +98,7 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 - Mobile-first responsive design
 - Automated tests & CI/CD
 <br>
-<br>
-
-
+<!-- Personal Blog -->
 <div align="center">
 
 <h1>🌱 Insights & Advocacy</h1>
@@ -121,7 +118,7 @@ Navigating tech with ADHD, Autism, Dyspraxia & IBD
 </p>
 
 </div>
-
+<!-- Contributions Snake -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg" width="800">
 </p>
