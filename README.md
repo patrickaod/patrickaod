@@ -102,7 +102,7 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 <div align="center">
 
 <h1>🌱 Insights & Advocacy</h1>
-<h4 style="font-weight: normal; color: #55FFAA;">
+<h4 style="font-weight: normal; color: #eebb5c;">
 Navigating tech with ADHD, Autism, Dyspraxia & IBD
 </h4>
 
@@ -112,8 +112,10 @@ Navigating tech with ADHD, Autism, Dyspraxia & IBD
 
 <p>
 <a href="https://www.patrickodoherty.dev">
-<img src="https://img.shields.io/badge/Read-Blog-00FFAA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Tech+Tips-Cyberpunk-FF00AA?style=for-the-badge">
+<img src="https://img.shields.io/badge/BLOG-eebb5c?style=for-the-badge&logo=firefox&logoColor=black">
+</a>
+<a href="https://www.linkedin.com/in/patricksadvocacy/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
 
