@@ -50,7 +50,8 @@ $ currently_building
 ## Cloud: AWS / Azure
 ## DB: Postgres / MongoDB
 ```
-
+---
+<br>
 <!-- Stats -->
 <p align="center">
 
@@ -73,9 +74,17 @@ $ currently_building
 </table>
 
 </p>
+<br>
+
+--- 
+<br>
 
 <!-- Feature -->
-<h1 align="center">💻 Featured Project</h1>
+<p align="center">
+  <span style="font-size: 32px; font-weight: bold;">
+    💻 Featured Project
+  </span>
+</p>
 <h4 align="center" style="font-weight: normal; color: #555;">
 Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 </h4>
@@ -97,11 +106,18 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 - Secure Stripe integration for payments
 - Mobile-first responsive design
 - Automated tests & CI/CD
+
 <br>
+
+---
+
 <!-- Personal Blog -->
 <div align="center">
-
-<h1>🌱 Insights & Advocacy</h1>
+<p align="center">
+  <span style="font-size: 32px; font-weight: bold;">
+    🌱 Insights & Advocacy
+  </span>
+</p>
 <h4 style="font-weight: normal; color: #eebb5c;">
 Navigating tech with ADHD, Autism, Dyspraxia & IBD
 </h4>
