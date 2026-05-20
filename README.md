@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 <p align="center">
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
@@ -54,7 +54,7 @@ $ currently_building
 <!-- Stats -->
 <p align="center">
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table>
 <tr>
 <td align="center" colspan="2">
     <img src="https://streak-stats.demolab.com?user=patrickaod&theme=radical" />
