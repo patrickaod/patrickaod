@@ -1,97 +1,127 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=radical)
+<!-- Hero Banner -->
+<p align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<h1>🧠 Patrick</h1>
 
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=Initializing+developer+profile...;Loading+toolchain...;System+status:+ONLINE;Building+cool+things+at+3AM" />
 
+</td>
 
+<td width="50%" align="center">
+    <img src="assets/gif/kirby.gif" width="60%" />
+</td>
+</tr>
+</table>
 
+</p>
 
+<!-- About -->
+```console
+$ whoami
 
+Full-Stack Web Developer
+Security & AI systems enthusiast
+Game Developer hobbyist
 
+$ currently_building
 
+> Full-Stack Blackjack game with AI Opponents and Multiplayer
+> Linux Anti-Virus Automation
+> Computer Science Bachelor’s degree in Science 
+```
 
+<!-- Skills -->
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,bootstrap,django,flask,postgres,mysql,mongodb,aws,azure,docker,linux,heroku,git,bash,vscode,wordpress" />
 
+</p>
 
+```console
+> loadout
 
+## Frontend: React
+## Backend: Django / Flask / Python
+## Cloud: AWS / Azure
+## DB: Postgres / MongoDB
+```
 
+<!-- Stats -->
+<p align="center">
 
+<table>
+<tr>
+<td align="center" colspan="2">
+    <img src="https://streak-stats.demolab.com?user=patrickaod&theme=radical" />
+</td>
+</tr>
 
+<tr>
+<td align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patrickaod&show_icons=true&theme=radical" />
+</td>
 
+<td align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickaod&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
 
+</p>
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Big centered name -->
-<h1 align="center" style="font-size: 4em; margin-bottom: 0.2em;">👋 Patrick</h1>
-
-<!-- Tagline below -->
-<h3 align="center" style="font-weight: normal; color: #555;">Backend Developer | QA Automation | Building Reliable Systems</h3>
-
-
-This GitHub showcases my journey in **backend development, QA automation, and building testable systems**.
-
-Here, I document projects, experiments, and workflows designed to **create maintainable, reliable software**. 
-
-The goal is to explore **practical approaches to complex technical challenges** while sharing insights for others navigating tech differently.
-
-### 🧠 Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=FAF3DD)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&color=033F63)
-![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&color=F0F0F0)
-
-**Frameworks:**  
-![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=django&color=092E20)
-![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&color=011638)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&color=F3CA40)
-![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&color=1F0322)
-
-**Testing & QA:**  
-![PyTest](https://img.shields.io/badge/PyTest-informational?style=flat&logo=pytest&color=006494)
-![Jest](https://img.shields.io/badge/JEST-informational?style=flat&logo=JEST&color=379634)
-![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=flat&logo=github-actions&color=FFFFFF)
-![Test Automation](https://img.shields.io/badge/Test%20Automation-informational?style=flat&color=FF6F61)
-
-<h2>💻 Featured Projects</h2>
-
-### **Shoply** – Full-Stack eCommerce Platform
+<!-- Feature -->
+<h1 align="center">💻 Featured Project</h1>
+<h4 align="center" style="font-weight: normal; color: #555;">
+Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
+</h4>
 
 <div align="center">
 <img src="assets/img/shoply_amiResponsive.png" alt="Shoply Responsive Image" width="70%">
 </div>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Django-Backend-blue?style=for-the-badge" alt="Django Badge">
-<img src="https://img.shields.io/badge/Cloud-Integration-purple?style=for-the-badge" alt="Pytest Badge">
+<img src="https://img.shields.io/badge/Cloud-Integration-purple?style=for-the-badge" alt="Cloud Badge">
 <img src="https://img.shields.io/badge/Stripe-Payment-green?style=for-the-badge" alt="Stripe Badge">
 </p>
 
-- Populates products dynamically using Kaggle datasets via Django management commands  
-- Secure Stripe integration for payments  
-- Mobile-first responsive design  
-- Automated tests & CI/CD integration 
+### **Shoply**
+*E-Commerce Platform • Hosted on Heroku • CI/CD via GitHub*
 
-<h2>🌱 Insights & Advocacy</h2>
+- Populates products dynamically via Kaggle datasets
+- Secure Stripe integration for payments
+- Mobile-first responsive design
+- Automated tests & CI/CD
+<br>
+<br>
 
-I share my journey navigating tech with **ADHD, Autism, Dyspraxia, and IBD**, exploring strategies to work **with your mind, not against it**. [Read my blog →](https://www.patrickodoherty.dev)
+
+<div align="center">
+
+<h1>🌱 Insights & Advocacy</h1>
+<h4 style="font-weight: normal; color: #55FFAA;">
+Navigating tech with ADHD, Autism, Dyspraxia & IBD
+</h4>
+
+<a href="https://www.patrickodoherty.dev">
+<img src="assets/img/differentbydesign.png" alt="Blog Banner" width="70%">
+</a>
+
+<p>
+<a href="https://www.patrickodoherty.dev">
+<img src="https://img.shields.io/badge/Read-Blog-00FFAA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech+Tips-Cyberpunk-FF00AA?style=for-the-badge">
+</a>
+</p>
+
+</div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/patrickaod/patrickaod/output/github-contribution-grid-snake.svg" width="800">
 </p>
