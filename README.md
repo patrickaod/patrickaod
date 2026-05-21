@@ -32,6 +32,7 @@ $ currently_building
 
 > Full-Stack Blackjack game with AI Opponents and Multiplayer
 > Linux Anti-Virus Automation
+> HomeLab Infrastructure for Service Hosting, Monitoring & Automation 
 > Bachelor’s degree in Computer Science 
 ```
 
