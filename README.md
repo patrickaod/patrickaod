@@ -83,22 +83,25 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 </h4>
 
 <div align="center">
-<img src="assets/img/shoply_amiResponsive.png" alt="Shoply Responsive Image" width="70%">
+  <a href="https://github.com/patrickaod/Shoply" target="_blank">
+    <img src="assets/img/shoply_amiResponsive.png" 
+         alt="Shoply Responsive Image" 
+         width="70%">
+  </a>
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Django-Backend-blue?style=for-the-badge" alt="Django Badge">
-<img src="https://img.shields.io/badge/Cloud-Integration-purple?style=for-the-badge" alt="Cloud Badge">
-<img src="https://img.shields.io/badge/Stripe-Payment-green?style=for-the-badge" alt="Stripe Badge">
+<img src="https://img.shields.io/badge/Django-5.0-success?style=for-the-badge&logo=django" alt="Django Badge">
+<img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Badge">
+<img src="https://img.shields.io/badge/Bootstrap-Responsive_Design-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
 </p>
-
 ### **Shoply**
 *E-Commerce Platform • Hosted on Heroku • CI/CD via GitHub*
 
-- Populates products dynamically via Kaggle datasets
-- Secure Stripe integration for payments
-- Mobile-first responsive design
-- Automated tests & CI/CD
+- Dynamic product population using Kaggle datasets
+- Secure Stripe payment integration
+- Mobile-first responsive design with Bootstrap 5
+- Custom Django data pipeline and admin tools
 
 <!-- Personal Blog -->
 <div align="center">
