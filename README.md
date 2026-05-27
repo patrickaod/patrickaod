@@ -39,18 +39,33 @@ $ currently_building
 
 <!-- Skills -->
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css,bootstrap,postgres,mongodb,mysql,aws,docker,linux,git,github,bash,heroku,azure,vscode,java" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,bootstrap,django,flask,postgres,mysql,mongodb,aws,azure,docker,linux,heroku,git,bash,vscode,wordpress" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/MaterializeCSS-EE6E73?style=for-the-badge&logo=materialdesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Allauth-Django-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Werkzeug-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WhiteNoise-FFFFFF?style=for-the-badge&logo=whitenoise&logoColor=black" />
+<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </p>
 
 ```console
 > loadout
 
-## Frontend: React
-## Backend: Django / Flask / Python
-## Cloud: AWS / Azure
-## DB: Postgres / MongoDB
+## Primary Language: Python
+## Backend: Django / Flask
+## Frontend: JavaScript / Bootstrap / jQuery
+## Databases: PostgreSQL / MongoDB
+## Cloud & Deployment: Heroku / AWS
+## Current Focus: React / Modern Frontend Architecture
 ```
 
 <!-- Stats -->
