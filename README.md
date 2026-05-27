@@ -52,7 +52,7 @@ $ currently_building
 <img src="https://img.shields.io/badge/Allauth-Django-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Werkzeug-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WhiteNoise-FFFFFF?style=for-the-badge&logo=whitenoise&logoColor=black" />
+<img src="https://img.shields.io/badge/WhiteNoise-3776AB?style=for-the-badge&logo=whitenoise&logoColor=black" />
 <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </p>
