@@ -95,6 +95,7 @@ Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
 <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Badge">
 <img src="https://img.shields.io/badge/Bootstrap-Responsive_Design-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
 </p>
+
 ### **Shoply**
 *E-Commerce Platform • Hosted on Heroku • CI/CD via GitHub*
 
