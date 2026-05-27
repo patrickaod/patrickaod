@@ -94,7 +94,7 @@ $ currently_building
 <!-- Feature -->
 <h1 align="center">💻 Featured Project</h1>
 <h4 align="center" style="font-weight: normal; color: #555;">
-Level 6 - Capstone Project | Full-Stack Deployment | E-Commerce Platform
+Capstone Project | Full-Stack Django eCommerce Platform | Stripe & Cloud Deployment
 </h4>
 
 <div align="center">
